@@ -1,0 +1,13 @@
+{
+    "name": "netweb/contact",
+    "description": "This package will send email and store data into database",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Netweb\\Contact\\": "src/"
+        }
+    }
+}
